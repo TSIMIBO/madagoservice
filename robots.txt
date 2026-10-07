@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sensational-lolly-689b88.netlify.app/sitemap.xml
+Sitemap: https://madagoservice.netlify.app/sitemap.xml
